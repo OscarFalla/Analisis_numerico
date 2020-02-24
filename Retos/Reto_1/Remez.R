@@ -2,10 +2,10 @@
 
 
 # Valores Modificab
-grado = 1
+grado = 3
 #intervalo
-ini = -pi/64
-fin = pi/64
+ini = -pi/2
+fin = pi/2
 #Particion
 TipoParticion = 1
 
